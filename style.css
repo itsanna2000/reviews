@@ -1,0 +1,84 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2 {
+    color:rgb(65, 56, 56);
+    font-size: 35px;
+}
+
+.underLine {
+    background-color: brown;
+    width: 100px;
+    height: 6px;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.review {
+    background-color: rgb(243, 243, 243);
+    width: 550px;
+    height: 350px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 18px -1px rgba(0,0,0,0.54);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-top: 20px;
+    border: dotted 5px brown;
+    display: inline;
+
+}
+
+.author {
+    font-weight: lighter;
+    font-style: italic;
+    margin-top: -1px;
+}
+
+.job {
+    color: brown;
+    font-variant-caps: all-petite-caps;
+    margin-top: -20px;
+}
+
+.text {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+button {
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    border: none;
+    font-weight: bolder;
+    color: brown;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    border: none;
+    font-weight: bolder;
+    color: rgb(65, 56, 56);
+    font-size: 20px;
+}
